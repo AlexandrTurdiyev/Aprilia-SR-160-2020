@@ -42,8 +42,8 @@ ___
 
 ![usb-ttl-ft232rl-gen-view-img](/lighting/rear%20protective%20light/images/usb-ttl-ft232rl-gen-view-img.JPG)
 
-- Тонкости подключения программатора, можно посмотреть [здесь](pages/ft232rl-nocemcu-connect-download.md)
-- А вот всё, что касается самоей программы, можно увидеть [здесь](pages/firmware.md)
+- Тонкости подключения программатора [здесь](pages/ft232rl-nocemcu-connect-download.md)
+- Всё, что касается самоей программы [здесь](pages/firmware.md)
 
 
 
