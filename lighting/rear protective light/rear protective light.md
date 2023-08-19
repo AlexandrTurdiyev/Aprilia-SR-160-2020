@@ -7,9 +7,12 @@
 ___
 ## Ход работ
 - За основу самого источника света взят 30 Ваттный LED-прожектор SAMSON
+
 ![led-samson-general-view-img](/lighting/rear%20protective%20light/images/led-samson-general-view.jpg)
 
 ![led-samson-general-view-img](/lighting/rear%20protective%20light/images/led-samson-nameplate.jpg)
+
+- __Характеристики:__
     - MODEL: SL-FL-30 SLEDBPFL0020
     - 30W 6500K IP65
     - INPUT: AC220-240V 50/60HZ
