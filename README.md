@@ -1,8 +1,9 @@
-# Aprilia-SR-160-2020
+# Скутер Aprilia SR 160,  2020 г. в.
 ___
 ## Модернизация
-- [Заднее защитное освещение](lighting/rear%20protective%20light/rear%20protective%20light.md)
+- [Заднее защитное освещение](lighting/rear%20protective%20light/rear%20protective%20light.md) - статья в разработке.
 ___
 ## Техническое обслужвание и ремонт
 - [Техническое обслужвание и ремонт](service/service.md)
+    - [Техническое обслуживание трансмиссии](gearbox/gearbox.md)
 ___
